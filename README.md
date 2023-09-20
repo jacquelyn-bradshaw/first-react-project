@@ -1,4 +1,8 @@
 # first-react-project
+- Expense tracker
+- Add new expenses
+- Filter expenses by year
+- Chart showing expenses and list of expenses
 
 Prerequisites
 - You will need the following installed on your machine:
